@@ -3,6 +3,7 @@
 <a href="https://www.linkedin.com/in/levi-sr93/">
   <img align="left" alt="Levi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=levi-sr93.levi-sr93)
 
 <br />
