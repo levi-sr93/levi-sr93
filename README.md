@@ -40,6 +40,7 @@ Hi, I'm [Levi Santos!](https://levisantos.com/), a self-taught Full Stack Web De
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=levi-sr93&repo=my_wallet_react_typescrypt&theme=radical" />
 </a>
 
+
 <!--
 **levi-sr93/levi-sr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
