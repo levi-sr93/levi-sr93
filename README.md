@@ -17,6 +17,8 @@ Hi, I'm [Levi Santos!](https://levisantos.com/), a self-taught Full Stack Web De
 - 💬 Any doubts? I am happy to help;
 - 📫 How to reach me: [@levi-sr93](https://linkedin.com/in/levi-sr93);
 
+
+<!--
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -41,7 +43,7 @@ Hi, I'm [Levi Santos!](https://levisantos.com/), a self-taught Full Stack Web De
 </a>
 
 
-<!--
+
 **levi-sr93/levi-sr93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
