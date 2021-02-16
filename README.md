@@ -12,7 +12,7 @@ Hi, I'm [Levi Santos!](https://levisantos.com/), a self-taught Full Stack Web De
   
 **Personal Stuff:**
 
-- 🌱 I’m currently learning Typescript & Docker;
+- 🌱 Study and practice everyday;
 - :couple: I’m looking to start to collaborate on Open Source projects;
 - 💬 Any doubts? I am happy to help;
 - 📫 How to reach me: [@levi-sr93](https://linkedin.com/in/levi-sr93);
