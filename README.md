@@ -1,8 +1,10 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/levi-sr93/">
-  <img align="left" alt="Levi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<a href = "https://www.linkedin.com/in/levi-sr93/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:contactlevi93@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levi-sr93&layout=compact&theme=radical)](https://github.com/levi-sr93/github-readme-stats)
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=levi-sr93.levi-sr93)
 
@@ -17,6 +19,7 @@ Hi, I'm [Levi Santos!](https://levisantos.com/), a self-taught Full Stack Web De
 - 💬 Any doubts? I am happy to help;
 - 📫 How to reach me: [@levi-sr93](https://linkedin.com/in/levi-sr93);
 
+ 
 
 <!--
 **Languages and Tools:**  
