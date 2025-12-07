@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Levi Santos!](https://levisantos.com/), a self-taught Full Stack Web Developer 🚀.
+Hi, I'm [Levi Santos!](https://levisantos.com/), a Full Stack Developer 🚀.
   
 **Personal Stuff:**
 
